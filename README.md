@@ -30,8 +30,8 @@ Source - [Human Activity Recognition with Smartphones Dataset](https://www.kaggl
         - Check for a higher learning rate to make the model more robust
   - Select the best model
 
-## Technologies
-- Technologies -
+## Technologies, Programming languages and Tools
+- Technologies
   - Machine learning algorithms - XGBoost, Random Forests, SMOTE
   - Model evaluation - accuracy, precision, recall, f1-sore, confusion matrix
   - Hyperparameter tuning
@@ -42,7 +42,7 @@ Source - [Human Activity Recognition with Smartphones Dataset](https://www.kaggl
   - GitHub
 
 ## Code
-Link to the code - xxx  
+You can access the code from [here](Human_activity_recognition_v2.ipynb)  
 
 ## Observations and Recommendations
 - XGBoost model was more accurate than Random Forest.
