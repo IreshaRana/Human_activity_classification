@@ -4,8 +4,8 @@
 A study of 30 participants were carried out, to collect data for a human activity recognition project. They were asked to wear waist-mounted smartphones with embedded intertial sensors, and data were collected while they were going about their daily activities.
 
 ## Project goal and objectives
-Goal - To identify activities of daily living with a smartphone. 
-Objective - To train a machine learning model to classify human activities of daily living - walking, sitting, standing, laying, walking upstairs and walking downstairs.
+- Goal - To identify activities of daily living with a smartphone.
+- Objective - To train a machine learning model to classify human activities of daily living - walking, sitting, standing, laying, walking upstairs and walking downstairs.
 
 
 ## Data
