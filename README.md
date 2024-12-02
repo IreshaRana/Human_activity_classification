@@ -1,4 +1,4 @@
-# Human activity recognition 
+# Human activity classification
 
 ## Background
 A study of 30 participants were carried out, to collect data for a human activity recognition project. They were asked to wear waist-mounted smartphones with embedded intertial sensors, and data were collected while they were going about their daily activities.
