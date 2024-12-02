@@ -9,6 +9,7 @@ A study of 30 participants were carried out, to collect data for a human activit
 
 
 ## Data
+From the study of 30 participants.  
 Source - [Human Activity Recognition with Smartphones Dataset](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones)
 
 ## Approach taken
